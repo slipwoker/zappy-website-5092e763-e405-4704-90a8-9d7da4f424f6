@@ -1,0 +1,175 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+A pergola construction and marketing business that specializes in building and promoting outdoor shade structures and architectural elements for residential and
+
+### פרגולות
+https://example.com/pergolas
+פרגולות | הגג החדש
+
+### ארגזי רוח
+https://example.com/ציפוי-ארגזי-רוח-באלומיניום
+ציפוי ארגזי רוח באלומיניום | הגג החדש
+
+### ארגזי רוח
+https://example.com/ציפוי-ארגזי-רוח-באלומיניום/ארגזי-רוח-מאלומיניום
+ארגזי רוח מאלומיניום | הגג החדש
+
+### ארגזי רוח
+https://example.com/ציפוי-ארגזי-רוח-באלומיניום/ציפוי-ארגזי-רוח-יתרונות
+ציפוי ארגזי רוח יתרונות | הגג החדש
+
+### ארגזי רוח
+https://example.com/ציפוי-ארגזי-רוח-באלומיניום/ארגזי-רוח-מעוצבים
+ארגזי רוח מעוצבים | הגג החדש
+
+### בניה ושיפוץ עליית גג
+https://example.com/בניה-ושיפוץ-עליית-גג/שיפוץ-עליית-גג
+שיפוץ עליית גג | הגג החדש
+
+### החלפת רעפים
+https://example.com/החלפת-רעפים
+החלפת רעפים | הגג החדש
+
+### בלוג
+https://example.com/בלוג
+בלוג | הגג החדש
+
+### אודות
+https://example.com/about
+אודות | הגג החדש
+
+### שאלות נפוצות
+https://example.com/שאלות-נפוצות
+שאלות נפוצות | הגג החדש
+
+### גג חדש
+https://example.com/בניית-גגות-רעפים
+בניית גגות רעפים | הגג החדש
+
+### הגג החדש בע"מ
+https://example.com/תיקון-גגות-בגדרה
+תיקון גגות בגדרה | הגג החדש
+
+### הגג החדש בע"מ
+https://example.com/תיקון-גגות-בהרצליה
+תיקון גגות בהרצליה | הגג החדש
+
+### הגג החדש בע"מ
+https://example.com/תיקון-גגות-בחדרה
+תיקון גגות בחדרה | הגג החדש
+
+### הגג החדש בע"מ
+https://example.com/תיקון-גגות-בנתניה
+תיקון גגות בנתניה | הגג החדש
+
+### הגג החדש בע"מ
+https://example.com/תיקון-גגות-בראשון-לציון
+תיקון גגות בראשון לציון | הגג החדש
+
+### הגג החדש בע"מ
+https://example.com/תיקון-גגות-ברחובות
+תיקון גגות ברחובות | הגג החדש
+
+### הגג החדש בע"מ
+https://example.com/תיקון-גגות-ברעננה
+תיקון גגות ברעננה | הגג החדש
+
+### גג חדש
+https://example.com/תיקון-גגות-רעפים
+תיקון גגות רעפים | הגג החדש
+
+### גג חדש
+https://example.com/תיקון-גגות-רעפים/איטום-גג-רעפים-דולף
+איטום גג רעפים דולף | הגג החדש
+
+### גג חדש
+https://example.com/תיקון-גגות-רעפים/תהליך-תיקון-גג-רעפים-דולף
+תהליך תיקון גג רעפים דולף | הגג החדש
+
+### לקוחות מספרים
+https://example.com/לקוחות-מספרים
+לקוחות מספרים | הגג החדש
+
+### גג חדש
+https://example.com/סרטון-תדמית
+סרטון תדמית | הגג החדש
+
+### גג חדש
+https://example.com/המלצות-בסרטונים
+המלצות בסרטונים | הגג החדש
+
+### הגג החדש
+https://example.com/דוגמאות-של-העבודות-שלנו
+דוגמאות של העבודות שלנו | הגג החדש
+
+### גג חדש
+https://example.com/המלצות-במלל
+המלצות במלל | הגג החדש
+
+### צור קשר
+https://example.com/contact-us
+צור קשר | הגג החדש
+
+### הצהרת נגישות
+https://example.com/הצהרת-נגישות
+הצהרת נגישות | הגג החדש
+
+### בניה ושיפוץ עליית גג
+https://example.com/בניה-ושיפוץ-עליית-גג
+בניה ושיפוץ עליית גג | הגג החדש
+
+### הכן גגך לחורף
+https://example.com/הכן-גגך-לחורף
+הכן גגך לחורף | הגג החדש
+
+### הגג החדש בע"מ
+https://example.com/מרזבים-מאלומיניום
+מרזבים מאלומיניום | הגג החדש
+
+### הגג החדש בע"מ
+https://example.com/עליות-גג-מעוצבות
+עליות גג מעוצבות | הגג החדש
+
+### הגג החדש בע"מ
+https://example.com/ניצול-חלל-גג-רעפים
+ניצול חלל גג רעפים | הגג החדש
+
+### הגג החדש בע"מ
+https://example.com/תאורה-נכונה-לעליות-גג
+תאורה נכונה לעליות גג | הגג החדש
+
+### הגג החדש בע"מ
+https://example.com/איך-בונים-גג-רעפים
+איך בונים גג רעפים | הגג החדש
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
